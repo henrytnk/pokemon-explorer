@@ -33,7 +33,6 @@ Pokémon Explorer is a simple React application that allows users to search for 
 ## Technologies Used
 - React
 - Axios
-- Tailwind CSS
 - PokéAPI (https://pokeapi.co/)
 
 ## How to Use
